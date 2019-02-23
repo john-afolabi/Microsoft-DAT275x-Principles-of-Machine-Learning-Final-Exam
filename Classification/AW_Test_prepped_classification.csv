@@ -1,0 +1,501 @@
+CustomerID,CountryRegionName,Education,Occupation,Gender,MaritalStatus,NumberCarsOwned,TotalChildren,AgeRange,log_YearlyIncome
+18988,United States,Bachelors ,Management,F,S,2,5,Between 45 and 55,11.372869979515515
+29135,Canada,Bachelors ,Skilled Manual,M,M,2,4,Between 25 and 45,11.51417468437066
+12156,United States,Graduate Degree,Management,F,M,2,4,Over 55,11.55200193695202
+13749,United States,Graduate Degree,Skilled Manual,M,M,0,4,Between 25 and 45,11.753209279102027
+27780,France,High School,Manual,F,M,1,2,Between 25 and 45,9.993145424466663
+16375,United States,Partial College,Clerical,F,M,1,1,Between 25 and 45,10.702502620019327
+16109,Canada,Bachelors ,Skilled Manual,M,S,2,4,Between 25 and 45,11.26063627605021
+15606,Australia,Bachelors ,Professional,M,M,3,4,Between 25 and 45,11.507088462769596
+20888,France,Partial High School,Manual,M,S,1,4,Between 25 and 45,9.512073267650623
+20716,Germany,Bachelors ,Skilled Manual,F,M,1,1,Under 25,10.742119399838055
+21311,Canada,High School,Professional,F,S,1,2,Between 25 and 45,11.47600211086563
+21741,Canada,Partial College,Professional,F,M,2,3,Between 25 and 45,11.26045608427419
+20101,United States,High School,Skilled Manual,M,M,2,2,Between 25 and 45,10.861438327669577
+28302,Canada,High School,Professional,F,M,2,4,Between 45 and 55,11.018268422365821
+14515,United States,Partial College,Skilled Manual,F,S,1,0,Under 25,10.516373251493265
+11674,United States,Graduate Degree,Professional,F,M,0,0,Between 25 and 45,11.367263652538876
+11539,United States,Graduate Degree,Skilled Manual,M,M,0,4,Between 25 and 45,11.640949218356333
+14290,United States,Partial High School,Skilled Manual,M,S,2,2,Between 25 and 45,11.330515904304047
+20615,Australia,Partial College,Management,F,S,3,5,Under 25,11.869361380343909
+14818,France,Partial College,Clerical,F,S,2,2,Between 25 and 45,10.662047871644305
+26973,United Kingdom,Partial High School,Manual,M,M,2,0,Under 25,10.352107930958221
+17825,Germany,Bachelors ,Skilled Manual,M,M,0,1,Between 25 and 45,11.024350450139057
+15133,Australia,Partial High School,Professional,M,M,4,5,Under 25,11.905555217875108
+22334,United States,Graduate Degree,Skilled Manual,M,M,0,0,Between 25 and 45,11.628465988073831
+26530,United States,Graduate Degree,Professional,F,M,0,5,Between 25 and 45,11.453355911373523
+15411,United States,Graduate Degree,Management,M,S,2,4,Over 55,11.717587276232473
+24792,United States,Bachelors ,Skilled Manual,M,M,1,1,Between 25 and 45,10.980467541077124
+18812,Canada,Partial College,Professional,M,S,2,4,Between 25 and 45,11.760878695193012
+27688,Australia,Bachelors ,Professional,M,S,1,0,Between 25 and 45,11.526039104115611
+14513,United States,Graduate Degree,Management,F,M,3,1,Between 25 and 45,11.919902762476795
+28847,United States,Bachelors ,Skilled Manual,F,S,1,2,Between 25 and 45,11.358911442471598
+11168,United States,Bachelors ,Management,M,S,1,0,Between 25 and 45,11.739678494274102
+18336,Australia,Bachelors ,Management,F,M,2,2,Between 45 and 55,10.828995673459891
+14382,United States,Bachelors ,Management,M,S,2,5,Between 45 and 55,11.42934818471488
+28882,France,Partial College,Professional,F,M,4,4,Between 25 and 45,11.817604762666923
+23238,United States,Partial College,Clerical,M,S,0,3,Under 25,11.040470834473451
+19098,Australia,Partial College,Management,M,M,3,5,Between 25 and 45,11.96452960705808
+15295,United States,Graduate Degree,Skilled Manual,M,M,0,1,Between 25 and 45,11.431227220985724
+12347,Australia,Bachelors ,Professional,F,M,2,0,Under 25,11.622604641772071
+20655,United States,Bachelors ,Skilled Manual,M,M,1,1,Between 25 and 45,11.018875014565939
+28156,United States,Bachelors ,Professional,F,S,1,0,Between 25 and 45,11.36259082811383
+20907,United Kingdom,Partial High School,Manual,M,S,2,3,Between 25 and 45,9.689613407229068
+22162,United States,Partial College,Skilled Manual,M,M,2,0,Under 25,11.396492767197136
+17782,United Kingdom,Graduate Degree,Clerical,F,M,0,0,Between 25 and 45,11.179743808447082
+25307,Germany,Bachelors ,Skilled Manual,F,M,1,1,Under 25,10.914106163733607
+14641,Canada,Partial College,Skilled Manual,M,M,1,0,Between 25 and 45,11.023469866940431
+12477,France,High School,Manual,F,M,1,2,Between 25 and 45,10.177248169646864
+18593,United States,Bachelors ,Skilled Manual,F,S,2,3,Between 25 and 45,11.711366403644066
+22718,United States,Bachelors ,Management,M,M,3,2,Between 25 and 45,12.014270287636702
+11377,Germany,Graduate Degree,Clerical,M,M,0,4,Between 25 and 45,11.377632521726046
+18875,Canada,Graduate Degree,Management,M,M,2,3,Over 55,11.714714625626018
+21972,Australia,Bachelors ,Professional,F,M,2,4,Between 25 and 45,11.295614868848462
+13420,United States,Bachelors ,Management,F,M,4,3,Between 25 and 45,11.78452388615378
+19205,Canada,High School,Manual,M,M,2,2,Between 25 and 45,9.924612834151077
+15966,United States,High School,Professional,F,M,2,2,Between 25 and 45,11.066497727453186
+16311,United Kingdom,Bachelors ,Skilled Manual,M,M,1,1,Between 25 and 45,11.063978578250103
+26497,United States,Partial College,Professional,F,M,1,2,Between 45 and 55,11.102593533064349
+27508,United States,Partial College,Skilled Manual,M,S,2,0,Under 25,11.371649877612274
+20403,Australia,High School,Skilled Manual,M,M,2,4,Between 45 and 55,9.764800032762235
+12728,Germany,Partial College,Clerical,M,S,1,0,Under 25,10.966697163402289
+26965,France,Bachelors ,Clerical,F,M,0,1,Between 25 and 45,10.783155792953782
+26248,United States,Partial High School,Clerical,M,M,2,3,Between 25 and 45,9.89065557372075
+18078,Canada,Partial College,Professional,M,M,1,2,Between 45 and 55,11.394445936819249
+15376,Canada,Partial College,Professional,F,S,2,4,Between 25 and 45,11.527883040603209
+28529,France,Partial College,Manual,F,S,1,1,Between 25 and 45,10.082052060452371
+16104,United States,Bachelors ,Skilled Manual,F,S,2,3,Between 25 and 45,11.438848261573913
+13633,Australia,Bachelors ,Professional,M,S,3,0,Between 25 and 45,11.708006933399451
+26019,Australia,Graduate Degree,Management,M,M,1,4,Between 25 and 45,11.86089563203128
+19646,Canada,Partial High School,Clerical,M,S,2,0,Under 25,10.585700168043294
+12133,United Kingdom,Partial College,Professional,F,M,3,4,Between 25 and 45,11.844377980991233
+19411,Canada,Bachelors ,Professional,F,M,0,4,Between 25 and 45,11.323373834067555
+23050,United States,Graduate Degree,Management,M,M,2,2,Over 55,11.109308647719681
+16803,United States,Partial College,Professional,M,M,2,2,Between 45 and 55,11.53956739591665
+25367,Canada,Partial College,Clerical,F,M,1,2,Between 25 and 45,10.742551607996228
+11018,Australia,Partial College,Clerical,M,S,2,2,Between 45 and 55,10.947696452324852
+24425,United States,High School,Professional,F,S,3,4,Between 25 and 45,11.54018064503668
+19505,United Kingdom,Partial College,Clerical,M,S,2,4,Under 25,11.05926751426058
+27759,United States,Bachelors ,Skilled Manual,F,S,3,3,Between 25 and 45,10.559036702680755
+12996,Australia,Bachelors ,Professional,F,M,0,2,Between 25 and 45,11.713528885442196
+17519,United States,Partial College,Professional,F,M,2,0,Under 25,10.982101194697547
+19145,United States,Bachelors ,Skilled Manual,F,M,3,3,Between 25 and 45,11.476344464707228
+18746,Australia,Partial College,Skilled Manual,M,S,1,1,Between 25 and 45,11.29384863333078
+12607,France,Graduate Degree,Clerical,F,M,0,3,Between 25 and 45,11.091269997463336
+21435,United States,Bachelors ,Management,M,S,2,0,Between 25 and 45,12.048757798334425
+11569,United Kingdom,Bachelors ,Clerical,M,M,1,1,Between 25 and 45,10.95806087221029
+23800,United States,Partial High School,Clerical,F,M,2,2,Between 25 and 45,9.894648603868923
+21618,Canada,Graduate Degree,Professional,M,M,0,4,Between 25 and 45,11.59762500505637
+26089,United States,Bachelors ,Management,M,S,3,3,Between 25 and 45,12.002627549419753
+11551,France,High School,Manual,M,S,1,3,Between 25 and 45,10.600278088010873
+21268,United States,Bachelors ,Management,F,M,1,0,Between 25 and 45,11.581620958911527
+23072,United States,Bachelors ,Management,F,M,2,4,Over 55,11.638120960342066
+26766,Australia,Partial College,Skilled Manual,F,M,3,5,Between 25 and 45,11.302624098669314
+15407,United States,Graduate Degree,Management,F,S,2,3,Between 25 and 45,11.19529264681043
+16381,United States,Graduate Degree,Skilled Manual,F,S,0,4,Between 25 and 45,11.541950144010844
+13665,United Kingdom,Partial High School,Manual,F,M,2,0,Under 25,9.931102719569102
+13409,France,Partial College,Professional,M,M,4,4,Between 25 and 45,11.990028831331188
+15609,France,Partial High School,Manual,M,S,2,0,Under 25,9.716434821366272
+18681,United States,Graduate Degree,Skilled Manual,F,M,0,1,Under 25,11.207242341408895
+18464,Australia,High School,Skilled Manual,F,M,2,3,Between 25 and 45,10.951209974200845
+27695,Australia,Bachelors ,Professional,F,M,1,1,Between 25 and 45,11.40338957790192
+21567,Australia,High School,Management,F,M,3,5,Between 25 and 45,11.405006122750734
+27999,United States,Graduate Degree,Management,M,S,2,3,Over 55,11.683815260801763
+11733,United States,Partial College,Skilled Manual,F,M,1,1,Between 25 and 45,11.18027392020147
+18823,United States,Bachelors ,Management,M,S,1,3,Between 25 and 45,11.948046457985903
+13893,United States,Graduate Degree,Professional,M,M,0,4,Between 25 and 45,11.644295774135127
+16817,United States,Partial College,Professional,M,M,1,4,Between 45 and 55,11.49295742399396
+26889,Germany,Partial High School,Manual,F,S,1,0,Under 25,9.998070195022075
+13339,United States,Bachelors ,Management,F,S,2,5,Between 45 and 55,11.581210085706818
+16670,United States,Partial College,Professional,F,S,2,0,Under 25,11.377529477926615
+16690,Australia,Graduate Degree,Management,F,M,1,0,Between 25 and 45,11.876581980919592
+22080,Canada,Partial College,Professional,F,M,3,5,Between 25 and 45,11.345323048182294
+15291,Canada,Graduate Degree,Skilled Manual,F,S,0,1,Between 25 and 45,11.439773958334419
+24355,United States,Bachelors ,Professional,F,M,1,4,Between 25 and 45,11.338071952783768
+17502,Australia,Partial High School,Clerical,M,S,2,3,Between 25 and 45,10.579488574261102
+18358,United States,Partial College,Skilled Manual,M,M,1,0,Under 25,11.023535121924303
+19893,United States,High School,Professional,M,S,2,2,Between 25 and 45,11.446005443644207
+14093,United States,Partial High School,Clerical,F,S,2,0,Under 25,10.742832443158637
+23327,United States,Partial College,Skilled Manual,F,S,2,0,Under 25,10.8863335206103
+11069,Australia,High School,Skilled Manual,F,S,2,2,Between 25 and 45,11.388869042708224
+15778,United States,Partial College,Professional,M,S,0,2,Between 25 and 45,11.500447943459116
+22960,Australia,Partial College,Skilled Manual,M,M,3,5,Between 25 and 45,11.371891714189507
+29269,United States,High School,Professional,F,M,3,4,Between 25 and 45,11.51293546492023
+28245,Canada,Partial College,Professional,M,S,1,3,Between 25 and 45,11.71744872974787
+20497,United States,Partial High School,Clerical,F,M,2,5,Between 45 and 55,10.34621633183446
+23091,United States,Partial College,Skilled Manual,M,S,2,0,Under 25,11.528956282042756
+14418,United States,High School,Professional,F,M,2,3,Between 25 and 45,11.02610929366459
+27497,Australia,Partial High School,Clerical,M,S,2,3,Between 25 and 45,10.758923636139793
+28577,United States,Graduate Degree,Skilled Manual,M,M,0,0,Between 25 and 45,11.851687934148462
+22654,France,High School,Manual,M,S,1,2,Between 25 and 45,10.621254172277629
+13485,United States,Graduate Degree,Management,M,M,3,3,Over 55,12.06758039675284
+22025,United States,High School,Skilled Manual,F,S,2,0,Under 25,10.619520836882774
+28515,United Kingdom,High School,Manual,M,M,0,2,Between 25 and 45,9.806756363576357
+26318,Canada,High School,Skilled Manual,M,M,3,4,Between 25 and 45,11.07108160151835
+11959,United States,Partial College,Professional,F,S,2,0,Under 25,11.177270893969352
+21429,United States,Partial College,Professional,F,M,2,3,Between 25 and 45,11.206400304716968
+21545,United Kingdom,High School,Management,F,M,4,5,Between 45 and 55,11.816365230284068
+21848,United Kingdom,Partial College,Professional,M,M,2,5,Between 25 and 45,12.019152531560962
+11995,Australia,Partial College,Skilled Manual,M,M,1,1,Between 25 and 45,11.54396860193493
+24675,United States,Partial College,Professional,M,S,2,5,Between 45 and 55,11.394119406204103
+16096,Canada,Graduate Degree,Professional,M,M,0,2,Between 25 and 45,11.52846411245087
+13966,Australia,Bachelors ,Professional,M,M,0,0,Between 25 and 45,11.759746479638794
+21707,United States,High School,Skilled Manual,F,M,2,2,Between 25 and 45,10.62723668039297
+15157,Canada,Graduate Degree,Management,M,M,3,3,Over 55,11.79049659367128
+15017,United States,Partial College,Skilled Manual,F,S,2,0,Under 25,10.309918860389617
+19705,Canada,High School,Professional,F,S,0,4,Between 25 and 45,11.28966940732742
+14416,Canada,High School,Professional,F,M,2,3,Between 25 and 45,11.293350538533044
+24466,Australia,Partial College,Skilled Manual,F,M,1,1,Between 25 and 45,11.261189519291916
+20135,Germany,Bachelors ,Manual,F,M,0,1,Between 25 and 45,9.702472353294919
+28431,France,Partial High School,Manual,M,M,2,0,Under 25,9.424887076064874
+22058,Canada,High School,Skilled Manual,M,S,2,0,Under 25,10.503038084358488
+11331,Canada,Partial College,Skilled Manual,F,M,2,4,Between 25 and 45,11.455020890468697
+18320,Canada,Partial High School,Clerical,M,M,2,0,Under 25,10.485228199271722
+24761,United States,Partial College,Clerical,M,S,1,2,Between 25 and 45,10.940844812389727
+16219,Canada,Bachelors ,Skilled Manual,M,M,1,1,Between 25 and 45,11.172166051525362
+22205,Australia,Bachelors ,Management,M,M,3,4,Between 25 and 45,12.062104117868266
+19647,Canada,Partial High School,Clerical,F,S,2,0,Under 25,10.549281036712603
+28662,United States,Graduate Degree,Professional,M,S,0,3,Between 25 and 45,11.484844869642307
+18732,Australia,Partial College,Clerical,M,M,2,2,Over 55,10.725709333961985
+12339,Australia,Bachelors ,Professional,M,S,3,0,Under 25,11.636540351169531
+22106,United States,Partial College,Professional,F,M,2,3,Between 25 and 45,11.831379196088763
+23305,Australia,High School,Skilled Manual,F,M,2,5,Between 45 and 55,10.149096848566002
+20290,United States,Partial College,Skilled Manual,M,S,1,0,Under 25,11.130111863421801
+16067,United States,Bachelors ,Skilled Manual,F,S,0,2,Between 25 and 45,10.67218273933141
+20186,Canada,High School,Skilled Manual,M,M,2,4,Between 25 and 45,10.931230209704426
+14600,United States,Graduate Degree,Professional,F,M,2,5,Between 25 and 45,11.43769532496007
+23713,United States,Bachelors ,Management,F,M,1,2,Between 45 and 55,11.315181593288735
+11288,United States,Bachelors ,Management,F,M,3,3,Between 25 and 45,11.967587003916694
+27942,France,High School,Professional,M,S,1,4,Between 25 and 45,11.710422949300852
+25824,Australia,Bachelors ,Professional,M,M,3,0,Between 25 and 45,11.852051320485572
+12028,United States,Partial High School,Clerical,F,S,2,0,Under 25,10.607104730879188
+26902,France,Graduate Degree,Clerical,M,M,0,5,Between 25 and 45,11.33249412059865
+19897,United States,Partial College,Professional,F,S,1,4,Between 25 and 45,11.329651454736467
+18488,Australia,High School,Skilled Manual,M,M,2,2,Between 25 and 45,11.31957127184177
+15991,United States,Graduate Degree,Management,M,M,2,3,Between 25 and 45,11.604601777542019
+13499,France,Graduate Degree,Clerical,F,S,0,4,Between 25 and 45,11.00454684484729
+24737,United States,Partial High School,Clerical,F,S,2,3,Between 25 and 45,10.097243486955746
+18253,Australia,Graduate Degree,Management,F,M,3,5,Between 25 and 45,11.63117061605705
+23277,United States,High School,Skilled Manual,M,M,2,2,Between 25 and 45,10.846926416329294
+25709,Australia,High School,Manual,F,M,0,1,Under 25,9.94578046472638
+19037,United Kingdom,High School,Professional,M,M,3,4,Between 25 and 45,11.861269805588636
+25550,Germany,Partial College,Manual,F,M,0,1,Over 55,10.102297426834886
+26714,United States,Partial High School,Skilled Manual,F,S,2,2,Between 25 and 45,10.947203572665522
+15593,Australia,Bachelors ,Professional,F,M,4,5,Between 25 and 45,11.317688866909027
+22018,Australia,Bachelors ,Management,M,M,2,2,Over 55,11.31902513212566
+11606,France,Partial High School,Manual,F,S,2,0,Under 25,9.760886583937106
+25634,France,Bachelors ,Professional,F,S,0,0,Between 25 and 45,10.965349407729502
+21615,United States,Bachelors ,Skilled Manual,F,S,1,2,Between 25 and 45,10.82319244951007
+28455,Germany,Bachelors ,Manual,M,M,0,1,Between 25 and 45,9.74887843430871
+11864,United States,Partial College,Skilled Manual,F,M,1,1,Between 25 and 45,11.237988494226785
+19197,Germany,Partial College,Clerical,F,S,2,2,Between 25 and 45,10.56560835449095
+21329,United States,Partial High School,Skilled Manual,M,M,2,2,Between 25 and 45,11.432875257268567
+19853,United States,Bachelors ,Management,M,M,3,5,Between 45 and 55,11.590043901126519
+27797,Germany,Bachelors ,Professional,M,M,0,0,Between 25 and 45,11.05665115580874
+17464,United States,Graduate Degree,Management,M,M,2,3,Between 25 and 45,11.69131429873647
+12209,United States,Bachelors ,Management,F,M,4,3,Over 55,11.842646391268554
+23621,France,Partial High School,Skilled Manual,F,M,2,5,Between 25 and 45,11.146661839061201
+23857,United States,Graduate Degree,Professional,F,S,0,1,Between 25 and 45,11.444593089593404
+29388,France,Bachelors ,Professional,M,M,0,0,Between 25 and 45,10.975071168816319
+21348,Canada,Graduate Degree,Management,F,M,2,5,Over 55,11.575768800091538
+18788,Canada,Bachelors ,Management,F,S,1,4,Between 25 and 45,11.625557479086774
+20518,United States,Partial College,Professional,F,M,1,2,Between 45 and 55,11.15354686945718
+25960,Australia,High School,Skilled Manual,M,M,2,2,Between 25 and 45,11.331187737714638
+22560,United Kingdom,Partial College,Manual,F,S,0,1,Between 25 and 45,9.898726235434417
+28119,Australia,Partial College,Skilled Manual,M,S,2,2,Between 25 and 45,11.604172857364787
+21157,United States,Bachelors ,Professional,M,M,1,5,Between 25 and 45,11.639760738546046
+23040,United States,High School,Professional,M,M,2,2,Between 25 and 45,11.507862670627766
+13637,Australia,Partial College,Management,F,M,3,5,Between 25 and 45,11.786822965251393
+16112,United States,Bachelors ,Professional,M,S,2,4,Between 25 and 45,11.440870768018875
+23547,Australia,Bachelors ,Management,M,S,1,2,Between 25 and 45,11.124582925418785
+27814,Germany,Partial College,Clerical,F,S,1,3,Under 25,10.690512068687417
+23382,United States,Partial College,Skilled Manual,M,M,1,1,Between 25 and 45,11.149973720211296
+21025,United Kingdom,High School,Manual,M,S,2,1,Between 25 and 45,9.68439827154996
+23366,United States,Bachelors ,Skilled Manual,M,S,2,4,Between 25 and 45,11.504540408435789
+26746,Australia,Partial College,Skilled Manual,F,S,1,1,Between 25 and 45,11.090721032857767
+11870,United States,Partial College,Skilled Manual,F,S,1,0,Between 25 and 45,11.265322711323353
+13618,Australia,Bachelors ,Professional,M,S,3,0,Under 25,11.57944327602054
+14883,United States,Bachelors ,Skilled Manual,F,M,1,1,Between 25 and 45,10.838030691127368
+27934,France,High School,Professional,F,M,2,5,Between 45 and 55,11.149599883056156
+22504,United Kingdom,Graduate Degree,Skilled Manual,M,S,0,0,Between 25 and 45,11.677464851968384
+22473,Germany,Bachelors ,Clerical,M,S,1,1,Between 25 and 45,11.004895928506238
+15621,United Kingdom,Graduate Degree,Skilled Manual,F,S,0,0,Under 25,10.981863119702801
+16925,United States,Partial College,Skilled Manual,M,S,2,0,Under 25,11.437425755568581
+15100,Germany,Bachelors ,Management,F,M,4,4,Between 45 and 55,11.857415473185025
+25391,United States,Bachelors ,Skilled Manual,F,S,0,2,Between 25 and 45,11.259296932643299
+11356,Australia,Partial College,Manual,M,S,1,0,Under 25,9.884049858643653
+24930,United States,High School,Professional,F,M,2,4,Between 45 and 55,11.09486132128555
+15341,United States,Partial College,Professional,F,M,2,2,Between 45 and 55,11.228278781061968
+11247,United Kingdom,Partial College,Professional,F,S,3,4,Between 25 and 45,11.877429680023294
+22652,Germany,High School,Manual,M,S,0,2,Between 25 and 45,9.997979215628845
+21284,Canada,Graduate Degree,Skilled Manual,M,M,0,1,Between 25 and 45,11.164813751691984
+15636,Germany,Partial College,Clerical,M,S,1,2,Between 25 and 45,10.882978410296374
+28003,United States,Graduate Degree,Management,F,M,2,3,Over 55,11.627235811147639
+20285,United States,High School,Skilled Manual,M,M,2,0,Under 25,10.809525907945932
+20140,Germany,Bachelors ,Manual,M,M,0,1,Between 25 and 45,10.249768667290844
+15959,United States,Partial College,Professional,M,M,3,2,Between 25 and 45,11.620864652992793
+28746,United Kingdom,Partial High School,Manual,M,M,2,0,Between 25 and 45,10.397665367329228
+26818,Germany,High School,Manual,M,S,1,3,Between 25 and 45,9.833333292612922
+28821,United States,Bachelors ,Skilled Manual,M,M,0,1,Between 25 and 45,11.505346819446679
+23896,United States,Bachelors ,Professional,F,S,1,0,Between 25 and 45,11.0431618069291
+23314,Australia,Partial College,Clerical,M,M,2,2,Between 45 and 55,10.968577527953402
+26510,United States,Partial College,Professional,M,S,0,2,Between 45 and 55,11.490833218495412
+15111,France,High School,Professional,F,M,3,4,Between 45 and 55,11.475379348896258
+24205,Germany,Bachelors ,Clerical,F,S,0,1,Between 25 and 45,10.685675299886803
+28463,United Kingdom,Partial College,Manual,M,S,0,1,Between 25 and 45,9.630497028827337
+20040,United States,Graduate Degree,Professional,F,S,0,3,Between 25 and 45,11.454056176654127
+12822,Germany,Bachelors ,Clerical,F,M,0,0,Between 25 and 45,10.931033392770377
+25619,France,Bachelors ,Clerical,M,M,0,1,Between 25 and 45,11.11173122371271
+20280,Canada,Partial High School,Clerical,M,S,2,0,Under 25,11.034647699272247
+26392,Germany,Graduate Degree,Management,F,S,4,3,Between 45 and 55,11.752383213134992
+20513,United States,Partial College,Professional,M,S,1,2,Between 45 and 55,11.468032696079492
+20201,United States,Graduate Degree,Professional,F,M,3,5,Between 25 and 45,11.439547995165453
+22535,United Kingdom,Bachelors ,Skilled Manual,F,M,0,1,Under 25,10.777350835170328
+16279,Germany,Partial High School,Manual,F,S,2,3,Between 25 and 45,9.711842668281289
+27996,United States,Graduate Degree,Management,F,M,2,3,Over 55,10.957712470499597
+19929,France,Bachelors ,Management,M,M,3,4,Between 25 and 45,11.770269456621786
+22103,United States,Partial College,Professional,F,M,4,3,Between 25 and 45,11.800904993177658
+19784,Australia,High School,Skilled Manual,F,M,2,2,Between 25 and 45,11.305113777653
+26045,United States,Partial High School,Skilled Manual,M,S,2,2,Between 25 and 45,11.646389355316524
+25791,France,Bachelors ,Management,M,S,4,4,Between 25 and 45,11.758894521059666
+24265,United States,Partial College,Skilled Manual,M,M,2,0,Under 25,11.371431022683423
+19650,Australia,Partial College,Clerical,F,M,2,2,Over 55,10.73578779448865
+29106,United States,High School,Skilled Manual,M,S,2,0,Under 25,10.955217855304108
+18787,United States,Bachelors ,Management,F,M,0,4,Between 25 and 45,11.581798329256603
+22160,United States,Partial College,Skilled Manual,M,S,1,0,Under 25,10.748411168061867
+19506,United Kingdom,Partial College,Clerical,F,S,3,4,Under 25,10.659773838007359
+26661,Australia,Bachelors ,Professional,F,S,1,2,Between 25 and 45,11.372145004081142
+12192,United States,Partial High School,Skilled Manual,F,S,2,2,Between 25 and 45,11.212320247227957
+29310,Australia,Bachelors ,Professional,M,S,2,0,Between 25 and 45,11.53190422356801
+16838,United States,Bachelors ,Management,M,S,3,2,Between 25 and 45,12.019905704714915
+12103,United States,Partial College,Professional,F,M,2,4,Between 45 and 55,11.221529839139794
+28220,Australia,Bachelors ,Professional,F,S,4,5,Between 25 and 45,11.743775246868669
+27128,France,Graduate Degree,Clerical,F,S,0,0,Between 25 and 45,11.061672929961361
+15420,United States,Bachelors ,Management,M,M,3,2,Between 25 and 45,11.72200254573936
+22360,United States,Partial College,Clerical,M,S,1,2,Between 25 and 45,10.741102974755142
+23453,United States,Partial College,Professional,M,M,0,3,Between 25 and 45,11.493752839181418
+13526,Australia,Bachelors ,Clerical,F,M,0,0,Under 25,10.229945527689226
+24840,United Kingdom,Partial High School,Professional,M,M,4,4,Between 25 and 45,11.980363305393231
+13102,United States,Partial College,Professional,F,S,1,2,Between 25 and 45,11.573634789081675
+11595,Germany,High School,Manual,M,S,3,5,Under 25,10.331496625079186
+26171,United States,High School,Skilled Manual,M,M,1,0,Under 25,10.958948747548254
+13376,United States,Partial College,Professional,M,M,2,2,Between 45 and 55,11.410493988818281
+27313,France,High School,Professional,F,M,3,5,Between 45 and 55,11.293076480605448
+18778,United States,Partial College,Skilled Manual,M,M,1,0,Under 25,10.718055588300412
+26210,United Kingdom,Partial High School,Manual,M,S,2,0,Under 25,9.48978863950086
+22603,France,High School,Manual,F,S,0,2,Between 25 and 45,9.337589572891646
+15630,United Kingdom,Partial High School,Manual,F,S,2,0,Between 25 and 45,9.647433337764658
+26578,United States,Partial College,Skilled Manual,M,S,2,0,Under 25,11.36771470471244
+11373,Germany,Bachelors ,Clerical,F,M,0,1,Between 45 and 55,10.702142737876844
+28137,Australia,Bachelors ,Management,F,S,3,1,Between 25 and 45,11.446571964420206
+12265,France,High School,Manual,M,S,1,1,Between 25 and 45,9.626547576616248
+12542,France,Graduate Degree,Clerical,M,M,0,4,Between 25 and 45,11.274122441626385
+15479,United States,Graduate Degree,Professional,F,M,0,1,Between 25 and 45,11.274008159539978
+14562,United States,Bachelors ,Skilled Manual,M,M,1,1,Between 25 and 45,10.95539250643891
+13899,United States,Graduate Degree,Professional,M,M,2,5,Between 25 and 45,11.69756932313375
+29483,France,Bachelors ,Clerical,M,M,0,0,Between 25 and 45,10.958095705706183
+24414,United States,Bachelors ,Management,M,S,4,2,Between 25 and 45,12.045545848066123
+13406,Germany,Partial College,Professional,M,M,2,4,Between 25 and 45,11.963593357909222
+29406,Germany,Partial High School,Manual,F,M,2,0,Under 25,10.284113370630648
+28794,United States,Partial College,Clerical,M,S,1,2,Between 25 and 45,10.704053129863343
+19273,France,Partial College,Manual,F,M,0,2,Between 45 and 55,9.628524252492122
+14063,Australia,Bachelors ,Professional,F,S,1,0,Between 25 and 45,11.348227692929823
+11643,United States,Bachelors ,Skilled Manual,F,M,1,1,Between 25 and 45,10.795772435943437
+13484,United States,Graduate Degree,Management,M,S,4,3,Over 55,12.072421245705074
+25969,United States,Bachelors ,Skilled Manual,M,M,2,4,Between 25 and 45,11.338238688924212
+13228,United States,Bachelors ,Management,M,M,3,5,Between 45 and 55,11.43054335636426
+22411,Australia,Bachelors ,Clerical,F,S,0,0,Under 25,10.262245325878965
+27304,France,Partial College,Professional,F,S,3,4,Between 25 and 45,11.82294371726766
+17060,Australia,Graduate Degree,Management,M,M,2,5,Between 25 and 45,11.89229297395652
+27563,United States,Bachelors ,Professional,M,M,1,5,Between 25 and 45,11.310821520675269
+27527,United States,Bachelors ,Management,F,S,3,2,Between 25 and 45,11.860358836826945
+28541,France,Partial College,Clerical,F,S,1,0,Under 25,10.949507457751732
+28214,Australia,Bachelors ,Professional,F,M,3,5,Between 25 and 45,11.320032224323306
+21533,United Kingdom,Partial College,Professional,M,M,2,5,Between 25 and 45,11.997442020384897
+11826,United States,Graduate Degree,Professional,F,M,0,5,Between 25 and 45,11.464627679562476
+18854,United States,Partial High School,Skilled Manual,M,M,2,2,Between 25 and 45,11.362532715270294
+14349,United States,High School,Skilled Manual,F,M,2,0,Under 25,10.604652504689657
+25254,United States,High School,Skilled Manual,F,S,2,0,Under 25,10.511403588733414
+14190,Germany,High School,Professional,F,M,3,4,Between 45 and 55,11.542134691554216
+22796,France,Partial College,Professional,M,M,3,4,Between 25 and 45,12.067442562360645
+24309,Canada,High School,Professional,M,M,2,0,Under 25,10.854295646435844
+12768,United States,High School,Clerical,M,M,1,1,Between 25 and 45,10.794583545775726
+27133,France,Partial College,Manual,M,M,1,2,Between 25 and 45,10.095388084110406
+25907,Australia,High School,Skilled Manual,F,M,2,2,Between 45 and 55,10.594106539907239
+28023,United States,High School,Professional,F,S,3,5,Between 45 and 55,10.543550362003618
+21520,United Kingdom,Bachelors ,Management,M,M,4,4,Between 45 and 55,12.069479427441248
+25554,France,Partial College,Manual,M,S,1,3,Between 45 and 55,10.067899688786515
+27715,Australia,Partial College,Skilled Manual,F,S,1,1,Between 25 and 45,11.107405355349508
+24917,Australia,Bachelors ,Professional,M,S,4,0,Between 25 and 45,11.744568790638537
+24788,United States,Bachelors ,Skilled Manual,F,M,1,1,Between 25 and 45,10.879480127656327
+24378,Australia,Bachelors ,Professional,F,S,1,0,Between 25 and 45,11.334169543735626
+22049,United States,Graduate Degree,Management,M,S,1,0,Between 25 and 45,12.0983760700748
+17872,United States,Graduate Degree,Skilled Manual,M,M,0,1,Between 25 and 45,11.517385504192315
+11502,Canada,Partial College,Clerical,M,S,1,4,Under 25,10.96124312385893
+21074,United Kingdom,Bachelors ,Skilled Manual,F,M,2,1,Between 25 and 45,10.809525907945932
+28153,Canada,Bachelors ,Professional,F,S,2,4,Between 25 and 45,11.453260382648493
+19940,United Kingdom,Partial College,Management,F,M,4,5,Between 45 and 55,11.85131015739577
+29157,United States,Graduate Degree,Professional,M,S,1,0,Between 25 and 45,11.65166079360126
+19775,United States,High School,Skilled Manual,F,S,2,0,Under 25,10.672854759007482
+16182,Australia,Bachelors ,Professional,M,M,2,3,Between 25 and 45,11.487146011982741
+11068,Australia,High School,Skilled Manual,F,S,2,2,Between 25 and 45,11.483156740696597
+19864,United States,Partial College,Professional,M,M,1,2,Between 45 and 55,11.429032855927643
+12498,Germany,Bachelors ,Skilled Manual,M,M,0,1,Between 25 and 45,10.937721307268031
+24232,United States,Partial College,Skilled Manual,M,S,2,0,Under 25,11.355323837466711
+28314,Australia,Bachelors ,Professional,M,S,1,1,Between 25 and 45,11.50509488585504
+14753,United States,Partial College,Clerical,M,M,1,1,Between 25 and 45,10.979922396259534
+12550,United Kingdom,Partial College,Manual,M,M,1,2,Between 25 and 45,9.267476563346992
+24801,United States,Graduate Degree,Professional,M,S,0,1,Between 25 and 45,11.633016945228048
+16327,Germany,Partial High School,Manual,M,S,2,0,Under 25,9.389406636049465
+19587,Australia,Bachelors ,Professional,F,M,4,5,Between 25 and 45,11.581238105152316
+14252,United States,Graduate Degree,Management,F,M,3,3,Between 45 and 55,11.5130054617704
+15186,Australia,Graduate Degree,Management,F,M,2,1,Between 25 and 45,11.938029788330741
+25454,United Kingdom,Bachelors ,Clerical,M,S,1,1,Between 25 and 45,10.825919389167046
+19857,United States,Bachelors ,Management,F,S,2,4,Between 45 and 55,11.469736087074644
+17861,Canada,High School,Skilled Manual,F,S,2,4,Between 25 and 45,10.549149966524329
+18079,United States,Bachelors ,Management,F,M,3,5,Between 45 and 55,11.47450683006617
+18706,Australia,Graduate Degree,Management,M,S,1,1,Between 25 and 45,12.083108083923987
+14603,United States,Bachelors ,Skilled Manual,F,S,2,3,Between 25 and 45,11.564340751916385
+13401,United States,High School,Professional,F,S,2,3,Between 25 and 45,11.27806352070182
+28447,France,Partial High School,Manual,M,S,2,0,Under 25,10.037799890143722
+23020,United States,Partial College,Professional,F,M,1,0,Between 25 and 45,11.43510445416616
+21557,Australia,Partial College,Management,F,S,3,5,Under 25,11.838026146992371
+23206,United States,Bachelors ,Professional,M,S,1,0,Between 25 and 45,11.009770347508457
+20429,Australia,Partial College,Skilled Manual,M,M,2,3,Between 25 and 45,11.064103903312146
+23214,United States,Bachelors ,Professional,F,M,2,4,Between 25 and 45,11.496501324156059
+22027,Canada,Partial High School,Clerical,M,S,2,0,Under 25,11.02356774781948
+26370,Germany,High School,Manual,F,M,2,2,Between 25 and 45,10.084975428581505
+28518,Germany,Bachelors ,Clerical,F,S,0,0,Between 25 and 45,11.106685056394312
+28221,United States,High School,Professional,F,M,2,2,Between 25 and 45,11.319377123001807
+17984,Germany,Bachelors ,Clerical,F,M,0,0,Between 25 and 45,10.735026171542216
+20321,United States,Graduate Degree,Skilled Manual,F,M,0,1,Between 25 and 45,11.434736870698954
+19824,United States,Partial College,Professional,M,S,3,5,Between 25 and 45,11.690736866286297
+20825,United Kingdom,Graduate Degree,Clerical,F,M,0,1,Between 45 and 55,10.840404102203939
+26294,Canada,Graduate Degree,Skilled Manual,M,M,0,1,Between 25 and 45,11.366604056257303
+16574,United Kingdom,Partial College,Manual,M,S,0,1,Between 25 and 45,10.002019808600375
+21938,United States,Bachelors ,Professional,F,M,1,4,Between 25 and 45,11.303302595885748
+20482,United States,Bachelors ,Professional,F,S,1,1,Between 25 and 45,11.30261175809412
+22186,United States,Partial College,Skilled Manual,M,S,2,0,Under 25,11.443307398089358
+29439,United Kingdom,Graduate Degree,Clerical,F,M,0,1,Between 25 and 45,10.817014468587551
+27050,United States,Partial College,Clerical,F,S,1,2,Between 25 and 45,10.7935575047672
+27974,Australia,High School,Management,M,S,4,5,Under 25,11.890978265468055
+14579,United States,Bachelors ,Skilled Manual,M,S,1,2,Between 25 and 45,11.372340684156354
+28264,United States,Partial College,Professional,F,S,1,4,Between 25 and 45,11.494914232168377
+18630,France,Partial High School,Manual,F,S,2,0,Between 25 and 45,9.755857235532103
+22099,United States,Graduate Degree,Management,M,M,2,4,Over 55,11.906054799317271
+21219,Australia,Bachelors ,Professional,F,S,1,0,Between 25 and 45,11.284844745876201
+28028,United States,High School,Professional,M,S,2,2,Between 45 and 55,11.20252050541118
+26684,United States,Bachelors ,Management,M,M,3,2,Between 25 and 45,12.059774387912876
+29361,France,Partial College,Manual,F,S,1,1,Between 25 and 45,10.45547431330706
+26987,Germany,Bachelors ,Skilled Manual,M,M,1,1,Under 25,11.114147945011881
+19783,Australia,High School,Skilled Manual,M,S,2,2,Between 25 and 45,11.710480402404773
+22362,United States,Graduate Degree,Skilled Manual,M,M,0,5,Between 25 and 45,11.865327292135785
+24523,United States,Bachelors ,Management,F,M,1,0,Between 25 and 45,11.635726997987977
+17657,Canada,Partial College,Clerical,M,M,0,4,Under 25,10.952857074625786
+13148,Canada,High School,Skilled Manual,M,M,2,0,Under 25,10.781515512284951
+25222,Australia,Partial College,Skilled Manual,F,S,1,1,Between 25 and 45,11.268251795105655
+22680,Germany,Bachelors ,Skilled Manual,M,M,0,1,Between 25 and 45,11.049667035628712
+18814,United States,Partial College,Professional,M,S,1,0,Between 25 and 45,11.74970364089348
+20984,Australia,Partial College,Manual,F,M,1,0,Under 25,9.8685337232726
+24041,Germany,High School,Manual,M,M,2,4,Between 45 and 55,9.792332503169966
+16489,Australia,High School,Skilled Manual,M,M,2,3,Between 45 and 55,10.983969814331768
+18845,United States,Graduate Degree,Management,F,M,2,2,Over 55,11.567460997618243
+13259,Germany,Partial College,Professional,M,M,2,4,Between 25 and 45,12.059392326280529
+20475,United States,Bachelors ,Management,M,M,3,2,Between 25 and 45,11.93576541909579
+13277,United States,Partial College,Professional,M,S,4,4,Between 25 and 45,11.711300800836243
+11796,United States,Bachelors ,Skilled Manual,F,S,0,2,Between 25 and 45,10.629634211359182
+19120,United States,Graduate Degree,Professional,M,M,0,1,Between 25 and 45,11.67331663238694
+22280,United States,Bachelors ,Skilled Manual,M,M,3,3,Between 25 and 45,10.799126496679412
+29324,United States,High School,Skilled Manual,F,M,2,0,Under 25,10.756071417352569
+11875,Canada,Partial College,Skilled Manual,M,M,1,1,Between 25 and 45,11.373444982981379
+14139,Germany,Graduate Degree,Clerical,F,M,0,4,Between 25 and 45,11.036227478431766
+24420,United States,Partial College,Professional,M,M,1,3,Between 25 and 45,11.58412922397656
+24280,Australia,Partial High School,Clerical,M,S,2,3,Between 25 and 45,10.652967806436234
+18538,United States,Bachelors ,Management,M,S,2,5,Between 45 and 55,11.691724157090144
+23841,United States,Bachelors ,Skilled Manual,F,M,1,1,Between 25 and 45,11.04442470584924
+14959,France,Partial College,Clerical,M,S,0,2,Between 25 and 45,10.649156023188173
+14097,United States,High School,Skilled Manual,M,M,2,0,Under 25,10.945176693804617
+13384,United States,Partial College,Professional,M,S,2,2,Between 45 and 55,11.42111714648604
+19559,Australia,Graduate Degree,Management,M,M,2,5,Between 25 and 45,11.886886146002434
+12650,France,High School,Management,M,M,3,4,Between 45 and 55,11.846034910886253
+18777,United States,Partial College,Skilled Manual,M,S,1,0,Under 25,10.853870484578053
+15831,Australia,Bachelors ,Management,M,M,2,2,Over 55,11.263681748428045
+28593,United States,Partial High School,Clerical,F,S,2,3,Between 25 and 45,10.295495855957682
+24914,Australia,Bachelors ,Professional,F,M,4,0,Between 25 and 45,11.524478471248804
+20961,France,Bachelors ,Manual,M,M,0,1,Between 25 and 45,10.23174758973532
+22048,United States,Bachelors ,Management,F,M,2,1,Between 25 and 45,11.559713626468987
+14338,Canada,High School,Skilled Manual,F,M,2,0,Under 25,10.775617388624513
+20830,Germany,Graduate Degree,Clerical,F,M,0,4,Between 25 and 45,11.168757693531585
+14697,United Kingdom,Partial High School,Manual,M,S,2,0,Between 25 and 45,10.150113227997542
+23952,Germany,High School,Manual,M,S,1,0,Under 25,10.092701965587253
+17877,Germany,Bachelors ,Manual,M,S,0,1,Between 25 and 45,10.361165532091226
+17837,Germany,Partial College,Clerical,F,S,1,0,Under 25,10.738134295369774
+20543,United States,Partial College,Professional,M,M,2,4,Between 45 and 55,11.318515132478892
+25894,United States,Partial College,Professional,M,M,2,2,Between 45 and 55,11.477453715661976
+22863,United States,Partial College,Professional,M,M,0,4,Between 25 and 45,11.510692974817513
+27826,Germany,Partial College,Clerical,M,S,1,4,Under 25,10.863986539074604
+25356,United States,Partial High School,Clerical,M,M,2,2,Between 25 and 45,10.451869042828553
+18610,United States,Bachelors ,Professional,F,S,2,4,Between 25 and 45,11.4116786984539
+16852,United States,Bachelors ,Management,F,S,4,4,Between 25 and 45,11.762944610289793
+25360,United States,High School,Skilled Manual,M,M,2,2,Between 25 and 45,11.023681930070788
+13487,United States,Graduate Degree,Management,F,M,2,3,Over 55,11.91153378561518
+18963,United States,Partial College,Skilled Manual,F,M,1,1,Between 25 and 45,11.319231486631294
+15698,Germany,Bachelors ,Management,F,S,3,5,Between 25 and 45,11.81915202064558
+21611,United States,Graduate Degree,Professional,M,M,0,2,Between 25 and 45,11.852485785690675
+11258,United States,Graduate Degree,Management,M,M,4,2,Over 55,12.12755419225711
+16036,United Kingdom,Bachelors ,Manual,F,M,0,1,Between 25 and 45,9.929009089766206
+23354,United States,Partial College,Professional,M,S,2,0,Under 25,11.527883040603209
+28641,United States,Graduate Degree,Skilled Manual,F,M,0,1,Between 25 and 45,10.951297654273851
+25455,Germany,Partial High School,Manual,M,M,0,4,Between 25 and 45,9.586170674954657
+20996,Australia,Bachelors ,Clerical,M,S,0,0,Under 25,10.336048886305994
+12760,Canada,Graduate Degree,Skilled Manual,F,S,0,0,Between 25 and 45,11.30006634710654
+26843,Germany,High School,Manual,M,S,2,4,Over 55,9.984099329028517
+12939,Canada,Bachelors ,Skilled Manual,M,S,1,3,Between 25 and 45,11.743743492016128
+11807,United States,Graduate Degree,Professional,M,M,0,3,Between 25 and 45,11.623455595115042
+17560,United States,Graduate Degree,Skilled Manual,F,M,0,1,Between 25 and 45,11.374100083884596
+18998,United States,Bachelors ,Management,M,M,3,5,Between 45 and 55,11.374639932165886
+11215,Canada,Partial High School,Skilled Manual,F,M,2,2,Between 45 and 55,10.60279074590741
+19116,Canada,Graduate Degree,Professional,M,S,0,1,Between 25 and 45,11.693812660226003
+15839,United States,Partial College,Skilled Manual,M,S,1,0,Under 25,11.04031042896799
+13930,United States,Partial College,Skilled Manual,F,M,1,1,Between 25 and 45,11.134807978380302
+12093,United States,Partial College,Professional,M,M,2,2,Between 45 and 55,11.538417757731164
+19731,United States,Graduate Degree,Management,M,M,2,4,Over 55,11.846221233382366
+12514,France,Partial College,Clerical,F,S,1,0,Under 25,10.509441521393695
+19038,Germany,Partial College,Professional,M,S,1,3,Between 25 and 45,11.672592331199377
+27156,United Kingdom,Partial High School,Manual,F,M,2,0,Under 25,10.062583129041906
+26756,Australia,Bachelors ,Professional,F,S,4,5,Between 25 and 45,11.496094617558756
+21181,Australia,Bachelors ,Professional,F,S,1,3,Between 25 and 45,11.394141928980261
+21803,Canada,Partial High School,Skilled Manual,F,M,3,2,Between 45 and 55,10.77132306414088
+27431,United States,Partial College,Professional,M,S,2,2,Between 45 and 55,11.553568243432245
+17685,United States,Graduate Degree,Skilled Manual,F,S,0,4,Between 25 and 45,11.68799579504999
+12118,United States,Partial College,Professional,F,M,1,2,Between 45 and 55,11.238988494310119
+17237,Australia,Bachelors ,Professional,F,S,3,0,Under 25,11.401770415604066
+11678,United States,Graduate Degree,Professional,M,M,0,5,Between 25 and 45,11.716747553210185
+13583,United Kingdom,High School,Professional,M,S,2,3,Between 25 and 45,11.765394781666265
+14907,United States,Partial College,Clerical,F,M,1,1,Between 25 and 45,11.07392425564261
+20857,France,Partial College,Manual,M,S,1,0,Between 25 and 45,9.862353009177573
+24285,United States,Partial College,Skilled Manual,M,S,2,0,Under 25,10.829609796323572
+24154,United Kingdom,Bachelors ,Clerical,M,S,0,1,Over 55,11.085797400225804
+12299,United Kingdom,Graduate Degree,Management,M,M,4,4,Between 45 and 55,12.091632142382712
+15690,United Kingdom,Bachelors ,Management,M,S,4,4,Between 45 and 55,12.026072392424895
+27720,Australia,Partial College,Skilled Manual,M,M,3,5,Between 25 and 45,11.519434236883054
+24408,United States,Bachelors ,Management,M,M,0,5,Between 25 and 45,12.051632757219506
+26764,Australia,Partial College,Skilled Manual,M,M,1,1,Between 25 and 45,11.401602766325961
+25829,Australia,High School,Management,F,M,4,5,Between 25 and 45,11.655821620997155
+22616,United Kingdom,Graduate Degree,Clerical,M,S,0,0,Between 25 and 45,11.412419812038584
+13725,United States,Partial College,Clerical,M,M,1,1,Between 25 and 45,10.888781822507013
+23990,France,Partial College,Manual,F,S,1,3,Between 45 and 55,9.51125944745996
+22830,Germany,Partial College,Management,M,M,3,5,Between 45 and 55,11.963886428076139
+26815,United States,Graduate Degree,Professional,F,M,0,0,Between 25 and 45,11.30417779393975
+12095,United States,Bachelors ,Management,M,M,0,2,Between 45 and 55,11.377506577862492
+16821,Germany,Bachelors ,Management,F,M,4,3,Between 25 and 45,11.801249831107251
+11597,France,Partial College,Clerical,F,S,2,3,Under 25,10.733893545253114
+13960,Australia,Bachelors ,Professional,F,S,4,5,Between 25 and 45,11.325812447440143
+23613,United Kingdom,Bachelors ,Management,M,M,4,4,Between 45 and 55,12.08066814011726
+15694,United Kingdom,Partial College,Professional,F,M,2,4,Between 25 and 45,11.564454731514159
+24816,Canada,Graduate Degree,Professional,F,M,0,2,Between 25 and 45,11.578984704229642
+24211,United Kingdom,Graduate Degree,Skilled Manual,F,S,0,0,Between 25 and 45,11.48333186212315
+23627,Germany,Partial College,Management,F,S,4,4,Between 45 and 55,11.615139034182182
+14500,United States,Bachelors ,Management,F,S,4,3,Over 55,11.83571161577258
+22223,United States,Partial College,Professional,F,M,1,2,Between 25 and 45,11.52746919041107
+29068,Australia,High School,Skilled Manual,F,S,2,4,Between 45 and 55,9.857862374509853

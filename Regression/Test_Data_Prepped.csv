@@ -1,0 +1,501 @@
+CustomerID,CountryRegionName,Education,Occupation,Gender,MaritalStatus,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome,Age,ChildrenOut
+18988,United States,Bachelors ,Management,F,S,2,0,5,86931,52,5
+29135,Canada,Bachelors ,Skilled Manual,M,M,2,2,4,100125,33,2
+12156,United States,Graduate Degree,Management,F,M,2,0,4,103985,63,4
+13749,United States,Graduate Degree,Skilled Manual,M,M,0,0,4,127161,39,4
+27780,France,High School,Manual,F,M,1,2,2,21876,32,0
+16375,United States,Partial College,Clerical,F,M,1,0,1,44467,40,1
+16109,Canada,Bachelors ,Skilled Manual,M,S,2,2,4,77702,33,2
+15606,Australia,Bachelors ,Professional,M,M,3,4,4,99418,33,0
+20888,France,Partial High School,Manual,M,S,1,4,4,13522,31,0
+20716,Germany,Bachelors ,Skilled Manual,F,M,1,1,1,46264,24,0
+21311,Canada,High School,Professional,F,S,1,1,2,96375,42,1
+21741,Canada,Partial College,Professional,F,M,2,0,3,77688,41,3
+20101,United States,High School,Skilled Manual,M,M,2,0,2,52127,41,2
+28302,Canada,High School,Professional,F,M,2,0,4,60978,48,4
+14515,United States,Partial College,Skilled Manual,F,S,1,0,0,36915,18,0
+11674,United States,Graduate Degree,Professional,F,M,0,0,0,86445,31,0
+11539,United States,Graduate Degree,Skilled Manual,M,M,0,0,4,113658,38,4
+14290,United States,Partial High School,Skilled Manual,M,S,2,0,2,83326,40,2
+20615,Australia,Partial College,Management,F,S,3,5,5,142823,24,0
+14818,France,Partial College,Clerical,F,S,2,2,2,42704,33,0
+26973,United Kingdom,Partial High School,Manual,M,M,2,0,0,31323,24,0
+17825,Germany,Bachelors ,Skilled Manual,M,M,0,0,1,61350,34,1
+15133,Australia,Partial High School,Professional,M,M,4,5,5,148087,24,0
+22334,United States,Graduate Degree,Skilled Manual,M,M,0,0,0,112248,31,0
+26530,United States,Graduate Degree,Professional,F,M,0,0,5,94217,28,5
+15411,United States,Graduate Degree,Management,M,S,2,0,4,122711,60,4
+24792,United States,Bachelors ,Skilled Manual,M,M,1,1,1,58716,27,0
+18812,Canada,Partial College,Professional,M,S,2,3,4,128140,34,1
+27688,Australia,Bachelors ,Professional,M,S,1,0,0,101320,34,0
+14513,United States,Graduate Degree,Management,F,M,3,0,1,150227,29,1
+28847,United States,Bachelors ,Skilled Manual,F,S,1,2,2,85726,29,0
+11168,United States,Bachelors ,Management,M,S,1,0,0,125452,29,0
+18336,Australia,Bachelors ,Management,F,M,2,0,2,50463,55,2
+14382,United States,Bachelors ,Management,M,S,2,0,5,91982,53,5
+28882,France,Partial College,Professional,F,M,4,4,4,135619,41,0
+23238,United States,Partial College,Clerical,M,S,0,3,3,62347,22,0
+19098,Australia,Partial College,Management,M,M,3,5,5,157083,25,0
+15295,United States,Graduate Degree,Skilled Manual,M,M,0,1,1,92155,26,0
+12347,Australia,Bachelors ,Professional,F,M,2,0,0,111592,22,0
+20655,United States,Bachelors ,Skilled Manual,M,M,1,1,1,61015,27,0
+28156,United States,Bachelors ,Professional,F,S,1,0,0,86042,29,0
+20907,United Kingdom,Partial High School,Manual,M,S,2,2,3,16149,33,1
+22162,United States,Partial College,Skilled Manual,M,M,2,0,0,89009,20,0
+17782,United Kingdom,Graduate Degree,Clerical,F,M,0,0,0,71664,29,0
+25307,Germany,Bachelors ,Skilled Manual,F,M,1,1,1,54946,24,0
+14641,Canada,Partial College,Skilled Manual,M,M,1,0,0,61296,30,0
+12477,France,High School,Manual,F,M,1,2,2,26298,32,0
+18593,United States,Bachelors ,Skilled Manual,F,S,2,3,3,121950,32,0
+22718,United States,Bachelors ,Management,M,M,3,2,2,165094,32,0
+11377,Germany,Graduate Degree,Clerical,M,M,0,0,4,87346,36,4
+18875,Canada,Graduate Degree,Management,M,M,2,0,3,122359,58,3
+21972,Australia,Bachelors ,Professional,F,M,2,4,4,80468,33,0
+13420,United States,Bachelors ,Management,F,M,4,2,3,131206,32,1
+19205,Canada,High School,Manual,M,M,2,0,2,20427,44,2
+15966,United States,High School,Professional,F,M,2,0,2,63991,42,2
+16311,United Kingdom,Bachelors ,Skilled Manual,M,M,1,0,1,63830,35,1
+26497,United States,Partial College,Professional,F,M,1,1,2,66343,49,1
+27508,United States,Partial College,Skilled Manual,M,S,2,0,0,86825,24,0
+20403,Australia,High School,Skilled Manual,M,M,2,0,4,17410,51,4
+12728,Germany,Partial College,Clerical,M,S,1,0,0,57913,18,0
+26965,France,Bachelors ,Clerical,F,M,0,0,1,48202,29,1
+26248,United States,Partial High School,Clerical,M,M,2,0,3,19745,43,3
+18078,Canada,Partial College,Professional,M,M,1,1,2,88827,50,1
+15376,Canada,Partial College,Professional,F,S,2,3,4,101507,34,1
+28529,France,Partial College,Manual,F,S,1,1,1,23910,29,0
+16104,United States,Bachelors ,Skilled Manual,F,S,2,3,3,92860,32,0
+13633,Australia,Bachelors ,Professional,M,S,3,0,0,121541,25,0
+26019,Australia,Graduate Degree,Management,M,M,1,4,4,141619,28,0
+19646,Canada,Partial High School,Clerical,M,S,2,0,0,39565,18,0
+12133,United Kingdom,Partial College,Professional,F,M,3,4,4,139299,42,0
+19411,Canada,Bachelors ,Professional,F,M,0,3,4,82733,38,1
+23050,United States,Graduate Degree,Management,M,M,2,0,2,66790,61,2
+16803,United States,Partial College,Professional,M,M,2,1,2,102700,48,1
+25367,Canada,Partial College,Clerical,F,M,1,0,2,46284,38,2
+11018,Australia,Partial College,Clerical,M,S,2,0,2,56823,53,2
+24425,United States,High School,Professional,F,S,3,3,4,102763,37,1
+19505,United Kingdom,Partial College,Clerical,M,S,2,4,4,63530,19,0
+27759,United States,Bachelors ,Skilled Manual,F,S,3,3,3,38524,32,0
+12996,Australia,Bachelors ,Professional,F,M,0,0,2,122214,27,2
+17519,United States,Partial College,Professional,F,M,2,0,0,58812,23,0
+19145,United States,Bachelors ,Skilled Manual,F,M,3,3,3,96408,32,0
+18746,Australia,Partial College,Skilled Manual,M,S,1,0,1,80326,40,1
+12607,France,Graduate Degree,Clerical,F,M,0,0,3,65596,37,3
+21435,United States,Bachelors ,Management,M,S,2,0,0,170887,32,0
+11569,United Kingdom,Bachelors ,Clerical,M,M,1,1,1,57415,31,0
+23800,United States,Partial High School,Clerical,F,M,2,1,2,19824,40,1
+21618,Canada,Graduate Degree,Professional,M,M,0,0,4,108839,31,4
+26089,United States,Bachelors ,Management,M,S,3,3,3,163183,36,0
+11551,France,High School,Manual,M,S,1,3,3,40146,30,0
+21268,United States,Bachelors ,Management,F,M,1,0,0,107111,29,0
+23072,United States,Bachelors ,Management,F,M,2,0,4,113337,57,4
+26766,Australia,Partial College,Skilled Manual,F,M,3,4,5,81034,36,1
+15407,United States,Graduate Degree,Management,F,S,2,0,3,72787,44,3
+16381,United States,Graduate Degree,Skilled Manual,F,S,0,0,4,102945,39,4
+13665,United Kingdom,Partial High School,Manual,F,M,2,0,0,20560,24,0
+13409,France,Partial College,Professional,M,M,4,4,4,161140,42,0
+15609,France,Partial High School,Manual,M,S,2,0,0,16588,17,0
+18681,United States,Graduate Degree,Skilled Manual,F,M,0,0,1,73662,24,1
+18464,Australia,High School,Skilled Manual,F,M,2,0,3,57023,45,3
+27695,Australia,Bachelors ,Professional,F,M,1,0,1,89625,35,1
+21567,Australia,High School,Management,F,M,3,5,5,89770,26,0
+27999,United States,Graduate Degree,Management,M,S,2,0,3,118636,59,3
+11733,United States,Partial College,Skilled Manual,F,M,1,0,1,71702,38,1
+18823,United States,Bachelors ,Management,M,S,1,3,3,154515,35,0
+13893,United States,Graduate Degree,Professional,M,M,0,0,4,114039,31,4
+16817,United States,Partial College,Professional,M,M,1,2,4,98023,46,2
+26889,Germany,Partial High School,Manual,F,S,1,0,0,21984,23,0
+13339,United States,Bachelors ,Management,F,S,2,0,5,107067,55,5
+16670,United States,Partial College,Professional,F,S,2,0,0,87337,23,0
+16690,Australia,Graduate Degree,Management,F,M,1,0,0,143858,31,0
+22080,Canada,Partial College,Professional,F,M,3,4,5,84569,36,1
+15291,Canada,Graduate Degree,Skilled Manual,F,S,0,0,1,92946,26,1
+24355,United States,Bachelors ,Professional,F,M,1,3,4,83958,38,1
+17502,Australia,Partial High School,Clerical,M,S,2,0,3,39320,43,3
+18358,United States,Partial College,Skilled Manual,M,M,1,0,0,61300,18,0
+19893,United States,High School,Professional,M,S,2,1,2,93527,45,1
+14093,United States,Partial High School,Clerical,F,S,2,0,0,46297,20,0
+23327,United States,Partial College,Skilled Manual,F,S,2,0,0,53441,17,0
+11069,Australia,High School,Skilled Manual,F,S,2,0,2,88333,42,2
+15778,United States,Partial College,Professional,M,S,0,1,2,98760,40,1
+22960,Australia,Partial College,Skilled Manual,M,M,3,4,5,86846,36,1
+29269,United States,High School,Professional,F,M,3,3,4,100001,37,1
+28245,Canada,Partial College,Professional,M,S,1,0,3,122694,41,3
+20497,United States,Partial High School,Clerical,F,M,2,0,5,31139,53,5
+23091,United States,Partial College,Skilled Manual,M,S,2,0,0,101616,20,0
+14418,United States,High School,Professional,F,M,2,1,3,61458,45,2
+27497,Australia,Partial High School,Clerical,M,S,2,0,3,47048,43,3
+28577,United States,Graduate Degree,Skilled Manual,M,M,0,0,0,140321,31,0
+22654,France,High School,Manual,M,S,1,2,2,40997,32,0
+13485,United States,Graduate Degree,Management,M,M,3,3,3,174134,60,0
+22025,United States,High School,Skilled Manual,F,S,2,0,0,40926,20,0
+28515,United Kingdom,High School,Manual,M,M,0,2,2,18156,28,0
+26318,Canada,High School,Skilled Manual,M,M,3,4,4,64285,29,0
+11959,United States,Partial College,Professional,F,S,2,0,0,71487,24,0
+21429,United States,Partial College,Professional,F,M,2,0,3,73600,41,3
+21545,United Kingdom,High School,Management,F,M,4,5,5,135451,48,0
+21848,United Kingdom,Partial College,Professional,M,M,2,5,5,165902,44,0
+11995,Australia,Partial College,Skilled Manual,M,M,1,0,1,103153,37,1
+24675,United States,Partial College,Professional,M,S,2,1,5,88798,48,4
+16096,Canada,Graduate Degree,Professional,M,M,0,0,2,101566,28,2
+13966,Australia,Bachelors ,Professional,M,M,0,0,0,127995,31,0
+21707,United States,High School,Skilled Manual,F,M,2,0,2,41243,40,2
+15157,Canada,Graduate Degree,Management,M,M,3,3,3,131992,56,0
+15017,United States,Partial College,Skilled Manual,F,S,2,0,0,30029,17,0
+19705,Canada,High School,Professional,F,S,0,3,4,79991,42,1
+14416,Canada,High School,Professional,F,M,2,1,3,80286,45,2
+24466,Australia,Partial College,Skilled Manual,F,M,1,0,1,77745,37,1
+20135,Germany,Bachelors ,Manual,F,M,0,0,1,16358,36,1
+28431,France,Partial High School,Manual,M,M,2,0,0,12393,22,0
+22058,Canada,High School,Skilled Manual,M,S,2,0,0,36426,19,0
+11331,Canada,Partial College,Skilled Manual,F,M,2,4,4,94374,29,0
+18320,Canada,Partial High School,Clerical,M,M,2,0,0,35783,18,0
+24761,United States,Partial College,Clerical,M,S,1,0,2,56435,38,2
+16219,Canada,Bachelors ,Skilled Manual,M,M,1,0,1,71123,44,1
+22205,Australia,Bachelors ,Management,M,M,3,1,4,173183,39,3
+19647,Canada,Partial High School,Clerical,F,S,2,0,0,38150,18,0
+28662,United States,Graduate Degree,Professional,M,S,0,0,3,97231,26,3
+18732,Australia,Partial College,Clerical,M,M,2,0,2,45511,65,2
+12339,Australia,Bachelors ,Professional,M,S,3,0,0,113158,21,0
+22106,United States,Partial College,Professional,F,M,2,3,3,137500,37,0
+23305,Australia,High School,Skilled Manual,F,M,2,0,5,25568,53,5
+20290,United States,Partial College,Skilled Manual,M,S,1,0,0,68194,21,0
+16067,United States,Bachelors ,Skilled Manual,F,S,0,2,2,43139,28,0
+20186,Canada,High School,Skilled Manual,M,M,2,2,4,55895,36,2
+14600,United States,Graduate Degree,Professional,F,M,2,5,5,92753,28,0
+23713,United States,Bachelors ,Management,F,M,1,1,2,82058,50,1
+11288,United States,Bachelors ,Management,F,M,3,3,3,157564,36,0
+27942,France,High School,Professional,M,S,1,2,4,121835,43,2
+25824,Australia,Bachelors ,Professional,M,M,3,0,0,140372,25,0
+12028,United States,Partial High School,Clerical,F,S,2,0,0,40421,20,0
+26902,France,Graduate Degree,Clerical,M,M,0,0,5,83491,35,5
+19897,United States,Partial College,Professional,F,S,1,3,4,83254,44,1
+18488,Australia,High School,Skilled Manual,M,M,2,0,2,82419,41,2
+15991,United States,Graduate Degree,Management,M,M,2,0,3,109601,44,3
+13499,France,Graduate Degree,Clerical,F,S,0,0,4,60147,35,4
+24737,United States,Partial High School,Clerical,F,S,2,0,3,24276,43,3
+18253,Australia,Graduate Degree,Management,F,M,3,5,5,112552,31,0
+23277,United States,High School,Skilled Manual,M,M,2,0,2,51376,40,2
+25709,Australia,High School,Manual,F,M,0,1,1,20864,18,0
+19037,United Kingdom,High School,Professional,M,M,3,4,4,141672,42,0
+25550,Germany,Partial College,Manual,F,M,0,0,1,24399,56,1
+26714,United States,Partial High School,Skilled Manual,F,S,2,0,2,56795,43,2
+15593,Australia,Bachelors ,Professional,F,M,4,5,5,82264,30,0
+22018,Australia,Bachelors ,Management,M,M,2,0,2,82374,60,2
+11606,France,Partial High School,Manual,F,S,2,0,0,17342,22,0
+25634,France,Bachelors ,Professional,F,S,0,0,0,57835,31,0
+21615,United States,Bachelors ,Skilled Manual,F,S,1,2,2,50171,30,0
+28455,Germany,Bachelors ,Manual,M,M,0,0,1,17135,36,1
+11864,United States,Partial College,Skilled Manual,F,M,1,0,1,75962,36,1
+19197,Germany,Partial College,Clerical,F,S,2,2,2,38778,27,0
+21329,United States,Partial High School,Skilled Manual,M,M,2,0,2,92307,43,2
+19853,United States,Bachelors ,Management,M,M,3,0,5,108017,51,5
+27797,Germany,Bachelors ,Professional,M,M,0,0,0,63364,31,0
+17464,United States,Graduate Degree,Management,M,M,2,0,3,119529,44,3
+12209,United States,Bachelors ,Management,F,M,4,3,3,139058,57,0
+23621,France,Partial High School,Skilled Manual,F,M,2,2,5,69332,45,3
+23857,United States,Graduate Degree,Professional,F,S,0,0,1,93395,28,1
+29388,France,Bachelors ,Professional,M,M,0,0,0,58400,31,0
+21348,Canada,Graduate Degree,Management,F,M,2,0,5,106486,58,5
+18788,Canada,Bachelors ,Management,F,S,1,4,4,111922,29,0
+20518,United States,Partial College,Professional,F,M,1,1,2,69811,50,1
+25960,Australia,High School,Skilled Manual,M,M,2,0,2,83382,40,2
+22560,United Kingdom,Partial College,Manual,F,S,0,0,1,19905,40,1
+28119,Australia,Partial College,Skilled Manual,M,S,2,0,2,109554,42,2
+21157,United States,Bachelors ,Professional,M,M,1,4,5,113523,38,1
+23040,United States,High School,Professional,M,M,2,0,2,99495,42,2
+13637,Australia,Partial College,Management,F,M,3,5,5,131508,25,0
+16112,United States,Bachelors ,Professional,M,S,2,2,4,93048,34,2
+23547,Australia,Bachelors ,Management,M,S,1,0,2,67818,44,2
+27814,Germany,Partial College,Clerical,F,S,1,3,3,43937,18,0
+23382,United States,Partial College,Skilled Manual,M,M,1,0,1,69562,36,1
+21025,United Kingdom,High School,Manual,M,S,2,1,1,16065,27,0
+23366,United States,Bachelors ,Skilled Manual,M,S,2,4,4,99165,33,0
+26746,Australia,Partial College,Skilled Manual,F,S,1,0,1,65560,36,1
+11870,United States,Partial College,Skilled Manual,F,S,1,0,0,78067,30,0
+13618,Australia,Bachelors ,Professional,M,S,3,0,0,106878,21,0
+14883,United States,Bachelors ,Skilled Manual,F,M,1,0,1,50921,44,1
+27934,France,High School,Professional,F,M,2,1,5,69536,53,4
+22504,United Kingdom,Graduate Degree,Skilled Manual,M,S,0,0,0,117885,31,0
+22473,Germany,Bachelors ,Clerical,M,S,1,1,1,60168,30,0
+15621,United Kingdom,Graduate Degree,Skilled Manual,F,S,0,0,0,58798,24,0
+16925,United States,Partial College,Skilled Manual,M,S,2,0,0,92728,19,0
+15100,Germany,Bachelors ,Management,F,M,4,4,4,141127,51,0
+25391,United States,Bachelors ,Skilled Manual,F,S,0,2,2,77598,28,0
+11356,Australia,Partial College,Manual,M,S,1,0,0,19615,17,0
+24930,United States,High School,Professional,F,M,2,0,4,65832,50,4
+15341,United States,Partial College,Professional,F,M,2,1,2,75228,46,1
+11247,United Kingdom,Partial College,Professional,F,S,3,4,4,143980,41,0
+22652,Germany,High School,Manual,M,S,0,2,2,21982,32,0
+21284,Canada,Graduate Degree,Skilled Manual,M,M,0,1,1,70602,27,0
+15636,Germany,Partial College,Clerical,M,S,1,2,2,53262,27,0
+28003,United States,Graduate Degree,Management,F,M,2,0,3,112110,58,3
+20285,United States,High School,Skilled Manual,M,M,2,0,0,49490,21,0
+20140,Germany,Bachelors ,Manual,M,M,0,0,1,28276,39,1
+15959,United States,Partial College,Professional,M,M,3,2,2,111398,35,0
+28746,United Kingdom,Partial High School,Manual,M,M,2,0,0,32783,26,0
+26818,Germany,High School,Manual,M,S,1,3,3,18645,30,0
+28821,United States,Bachelors ,Skilled Manual,M,M,0,1,1,99245,25,0
+23896,United States,Bachelors ,Professional,F,S,1,0,0,62515,33,0
+23314,Australia,Partial College,Clerical,M,M,2,0,2,58022,50,2
+26510,United States,Partial College,Professional,M,S,0,1,2,97815,48,1
+15111,France,High School,Professional,F,M,3,1,4,96315,46,3
+24205,Germany,Bachelors ,Clerical,F,S,0,0,1,43725,28,1
+28463,United Kingdom,Partial College,Manual,M,S,0,0,1,15222,40,1
+20040,United States,Graduate Degree,Professional,F,S,0,2,3,94283,34,1
+12822,Germany,Bachelors ,Clerical,F,M,0,0,0,55884,30,0
+25619,France,Bachelors ,Clerical,M,M,0,0,1,66952,29,1
+20280,Canada,Partial High School,Clerical,M,S,2,0,0,61985,18,0
+26392,Germany,Graduate Degree,Management,F,S,4,3,3,127056,53,0
+20513,United States,Partial College,Professional,M,S,1,1,2,95610,50,1
+20201,United States,Graduate Degree,Professional,F,M,3,5,5,92925,38,0
+22535,United Kingdom,Bachelors ,Skilled Manual,F,M,0,1,1,47923,22,0
+16279,Germany,Partial High School,Manual,F,S,2,2,3,16512,34,1
+27996,United States,Graduate Degree,Management,F,M,2,0,3,57395,60,3
+19929,France,Bachelors ,Management,M,M,3,4,4,129349,44,0
+22103,United States,Partial College,Professional,F,M,4,3,3,133373,37,0
+19784,Australia,High School,Skilled Manual,F,M,2,0,2,81236,42,2
+26045,United States,Partial High School,Skilled Manual,M,S,2,0,2,114278,41,2
+25791,France,Bachelors ,Management,M,S,4,4,4,127886,44,0
+24265,United States,Partial College,Skilled Manual,M,M,2,0,0,86806,20,0
+19650,Australia,Partial College,Clerical,F,M,2,0,2,45972,58,2
+29106,United States,High School,Skilled Manual,M,S,2,0,0,57252,22,0
+18787,United States,Bachelors ,Management,F,M,0,3,4,107130,34,1
+22160,United States,Partial College,Skilled Manual,M,S,1,0,0,46556,20,0
+19506,United Kingdom,Partial College,Clerical,F,S,3,4,4,42607,19,0
+26661,Australia,Bachelors ,Professional,F,S,1,2,2,86868,29,0
+12192,United States,Partial High School,Skilled Manual,F,S,2,0,2,74037,43,2
+29310,Australia,Bachelors ,Professional,M,S,2,0,0,101916,34,0
+16838,United States,Bachelors ,Management,M,S,3,2,2,166027,32,0
+12103,United States,Partial College,Professional,F,M,2,1,4,74722,48,3
+28220,Australia,Bachelors ,Professional,F,S,4,5,5,125967,31,0
+27128,France,Graduate Degree,Clerical,F,S,0,0,0,63683,28,0
+15420,United States,Bachelors ,Management,M,M,3,0,2,123254,29,2
+22360,United States,Partial College,Clerical,M,S,1,0,2,46217,39,2
+23453,United States,Partial College,Professional,M,M,0,2,3,98101,40,1
+13526,Australia,Bachelors ,Clerical,F,M,0,0,0,27721,19,0
+24840,United Kingdom,Partial High School,Professional,M,M,4,4,4,159590,41,0
+13102,United States,Partial College,Professional,F,S,1,0,2,106259,40,2
+11595,Germany,High School,Manual,M,S,3,5,5,30684,18,0
+26171,United States,High School,Skilled Manual,M,M,1,0,0,57466,22,0
+13376,United States,Partial College,Professional,M,M,2,1,2,90264,49,1
+27313,France,High School,Professional,F,M,3,1,5,80264,52,4
+18778,United States,Partial College,Skilled Manual,M,M,1,0,0,45164,23,0
+26210,United Kingdom,Partial High School,Manual,M,S,2,0,0,13224,17,0
+22603,France,High School,Manual,F,S,0,2,2,11357,27,0
+15630,United Kingdom,Partial High School,Manual,F,S,2,0,0,15482,26,0
+26578,United States,Partial College,Skilled Manual,M,S,2,0,0,86484,22,0
+11373,Germany,Bachelors ,Clerical,F,M,0,0,1,44451,54,1
+28137,Australia,Bachelors ,Management,F,S,3,0,1,93580,39,1
+12265,France,High School,Manual,M,S,1,1,1,15162,38,0
+12542,France,Graduate Degree,Clerical,M,M,0,0,4,78757,35,4
+15479,United States,Graduate Degree,Professional,F,M,0,0,1,78748,26,1
+14562,United States,Bachelors ,Skilled Manual,M,M,1,1,1,57262,27,0
+13899,United States,Graduate Degree,Professional,M,M,2,5,5,120279,28,0
+29483,France,Bachelors ,Clerical,M,M,0,0,0,57417,38,0
+24414,United States,Bachelors ,Management,M,S,4,2,2,170339,35,0
+13406,Germany,Partial College,Professional,M,M,2,4,4,156936,40,0
+29406,Germany,Partial High School,Manual,F,M,2,0,0,29264,21,0
+28794,United States,Partial College,Clerical,M,S,1,0,2,44536,38,2
+19273,France,Partial College,Manual,F,M,0,0,2,15192,54,2
+14063,Australia,Bachelors ,Professional,F,S,1,0,0,84815,33,0
+11643,United States,Bachelors ,Skilled Manual,F,M,1,1,1,48814,27,0
+13484,United States,Graduate Degree,Management,M,S,4,3,3,174979,60,0
+25969,United States,Bachelors ,Skilled Manual,M,M,2,2,4,83972,33,2
+13228,United States,Bachelors ,Management,M,M,3,0,5,92092,50,5
+22411,Australia,Bachelors ,Clerical,F,S,0,0,0,28631,19,0
+27304,France,Partial College,Professional,F,S,3,4,4,136345,40,0
+17060,Australia,Graduate Degree,Management,M,M,2,5,5,146136,30,0
+27563,United States,Bachelors ,Professional,M,M,1,4,5,81701,38,1
+27527,United States,Bachelors ,Management,F,S,3,2,2,141543,31,0
+28541,France,Partial College,Clerical,F,S,1,0,0,56926,23,0
+28214,Australia,Bachelors ,Professional,F,M,3,5,5,82457,29,0
+21533,United Kingdom,Partial College,Professional,M,M,2,5,5,162339,44,0
+11826,United States,Graduate Degree,Professional,F,M,0,0,5,95285,31,5
+18854,United States,Partial High School,Skilled Manual,M,M,2,0,2,86037,43,2
+14349,United States,High School,Skilled Manual,F,M,2,0,0,40322,21,0
+25254,United States,High School,Skilled Manual,F,S,2,0,0,36732,21,0
+14190,Germany,High School,Professional,F,M,3,1,4,102964,46,3
+22796,France,Partial College,Professional,M,M,3,4,4,174110,40,0
+24309,Canada,High School,Professional,M,M,2,0,0,51756,23,0
+12768,United States,High School,Clerical,M,M,1,0,1,48756,43,1
+27133,France,Partial College,Manual,M,M,1,0,2,24231,45,2
+25907,Australia,High School,Skilled Manual,F,M,2,1,2,39899,53,1
+28023,United States,High School,Professional,F,S,3,0,5,37932,51,5
+21520,United Kingdom,Bachelors ,Management,M,M,4,4,4,174465,52,0
+25554,France,Partial College,Manual,M,S,1,0,3,23574,54,3
+27715,Australia,Partial College,Skilled Manual,F,S,1,0,1,66663,36,1
+24917,Australia,Bachelors ,Professional,M,S,4,0,0,126067,27,0
+24788,United States,Bachelors ,Skilled Manual,F,M,1,1,1,53076,27,0
+24378,Australia,Bachelors ,Professional,F,S,1,0,0,83631,29,0
+22049,United States,Graduate Degree,Management,M,S,1,0,0,179580,30,0
+17872,United States,Graduate Degree,Skilled Manual,M,M,0,0,1,100447,26,1
+11502,Canada,Partial College,Clerical,M,S,1,4,4,57598,22,0
+21074,United Kingdom,Bachelors ,Skilled Manual,F,M,2,1,1,49490,32,0
+28153,Canada,Bachelors ,Professional,F,S,2,2,4,94208,34,2
+19940,United Kingdom,Partial College,Management,F,M,4,5,5,140268,48,0
+29157,United States,Graduate Degree,Professional,M,S,1,0,0,114882,30,0
+19775,United States,High School,Skilled Manual,F,S,2,0,0,43168,22,0
+16182,Australia,Bachelors ,Professional,M,M,2,3,3,97455,33,0
+11068,Australia,High School,Skilled Manual,F,S,2,0,2,97067,42,2
+19864,United States,Partial College,Professional,M,M,1,1,2,91953,49,1
+12498,Germany,Bachelors ,Skilled Manual,M,M,0,0,1,56259,34,1
+24232,United States,Partial College,Skilled Manual,M,S,2,0,0,85419,18,0
+28314,Australia,Bachelors ,Professional,M,S,1,0,1,99220,35,1
+14753,United States,Partial College,Clerical,M,M,1,0,1,58684,40,1
+12550,United Kingdom,Partial College,Manual,M,M,1,0,2,10588,43,2
+24801,United States,Graduate Degree,Professional,M,S,0,0,1,112760,26,1
+16327,Germany,Partial High School,Manual,M,S,2,0,0,11961,24,0
+19587,Australia,Bachelors ,Professional,F,M,4,5,5,107070,29,0
+14252,United States,Graduate Degree,Management,F,M,3,3,3,100008,54,0
+15186,Australia,Graduate Degree,Management,F,M,2,1,1,152975,39,0
+25454,United Kingdom,Bachelors ,Clerical,M,S,1,1,1,50308,30,0
+19857,United States,Bachelors ,Management,F,S,2,0,4,95773,51,4
+17861,Canada,High School,Skilled Manual,F,S,2,2,4,38145,37,2
+18079,United States,Bachelors ,Management,F,M,3,0,5,96231,50,5
+18706,Australia,Graduate Degree,Management,M,S,1,0,1,176859,28,1
+14603,United States,Bachelors ,Skilled Manual,F,S,2,3,3,105276,32,0
+13401,United States,High School,Professional,F,S,2,1,3,79068,45,2
+28447,France,Partial High School,Manual,M,S,2,0,0,22875,24,0
+23020,United States,Partial College,Professional,F,M,1,0,0,92513,34,0
+21557,Australia,Partial College,Management,F,S,3,5,5,138417,23,0
+23206,United States,Bachelors ,Professional,M,S,1,0,0,60462,33,0
+20429,Australia,Partial College,Skilled Manual,M,M,2,0,3,63838,44,3
+23214,United States,Bachelors ,Professional,F,M,2,2,4,98371,34,2
+22027,Canada,Partial High School,Clerical,M,S,2,0,0,61302,18,0
+26370,Germany,High School,Manual,F,M,2,2,2,23980,32,0
+28518,Germany,Bachelors ,Clerical,F,S,0,0,0,66615,28,0
+28221,United States,High School,Professional,F,M,2,0,2,82403,40,2
+17984,Germany,Bachelors ,Clerical,F,M,0,0,0,45937,30,0
+20321,United States,Graduate Degree,Skilled Manual,F,M,0,1,1,92479,26,0
+19824,United States,Partial College,Professional,M,S,3,5,5,119460,32,0
+20825,United Kingdom,Graduate Degree,Clerical,F,M,0,0,1,51042,54,1
+26294,Canada,Graduate Degree,Skilled Manual,M,M,0,1,1,86388,25,0
+16574,United Kingdom,Partial College,Manual,M,S,0,1,1,22071,29,0
+21938,United States,Bachelors ,Professional,F,M,1,3,4,81089,38,1
+20482,United States,Bachelors ,Professional,F,S,1,0,1,81033,35,1
+22186,United States,Partial College,Skilled Manual,M,S,2,0,0,93275,22,0
+29439,United Kingdom,Graduate Degree,Clerical,F,M,0,0,1,49862,36,1
+27050,United States,Partial College,Clerical,F,S,1,0,2,48706,39,2
+27974,Australia,High School,Management,M,S,4,5,5,145944,24,0
+14579,United States,Bachelors ,Skilled Manual,M,S,1,2,2,86885,29,0
+28264,United States,Partial College,Professional,F,S,1,3,4,98215,36,1
+18630,France,Partial High School,Manual,F,S,2,0,0,17255,26,0
+22099,United States,Graduate Degree,Management,M,M,2,0,4,148161,62,4
+21219,Australia,Bachelors ,Professional,F,S,1,0,0,79606,34,0
+28028,United States,High School,Professional,M,S,2,1,2,73315,50,1
+26684,United States,Bachelors ,Management,M,M,3,2,2,172780,32,0
+29361,France,Partial College,Manual,F,S,1,1,1,34734,30,0
+26987,Germany,Bachelors ,Skilled Manual,M,M,1,1,1,67114,24,0
+19783,Australia,High School,Skilled Manual,M,S,2,0,2,121842,42,2
+22362,United States,Graduate Degree,Skilled Manual,M,M,0,0,5,142248,39,5
+24523,United States,Bachelors ,Management,F,M,1,0,0,113066,29,0
+17657,Canada,Partial College,Clerical,M,M,0,4,4,57117,22,0
+13148,Canada,High School,Skilled Manual,M,M,2,0,0,48123,17,0
+25222,Australia,Partial College,Skilled Manual,F,S,1,0,1,78296,36,1
+22680,Germany,Bachelors ,Skilled Manual,M,M,0,0,1,62923,33,1
+18814,United States,Partial College,Professional,M,S,1,0,0,126716,34,0
+20984,Australia,Partial College,Manual,F,M,1,0,0,19313,17,0
+24041,Germany,High School,Manual,M,M,2,0,4,17896,46,4
+16489,Australia,High School,Skilled Manual,M,M,2,0,3,58922,46,3
+18845,United States,Graduate Degree,Management,F,M,2,0,2,105605,61,2
+13259,Germany,Partial College,Professional,M,M,2,4,4,172714,40,0
+20475,United States,Bachelors ,Management,M,M,3,2,2,152629,32,0
+13277,United States,Partial College,Professional,M,S,4,1,4,121942,32,3
+11796,United States,Bachelors ,Skilled Manual,F,S,0,2,2,41342,28,0
+19120,United States,Graduate Degree,Professional,M,M,0,0,1,117397,26,1
+22280,United States,Bachelors ,Skilled Manual,M,M,3,3,3,48978,32,0
+29324,United States,High School,Skilled Manual,F,M,2,0,0,46914,21,0
+11875,Canada,Partial College,Skilled Manual,M,M,1,0,1,86981,37,1
+14139,Germany,Graduate Degree,Clerical,F,M,0,0,4,62083,36,4
+24420,United States,Partial College,Professional,M,M,1,2,3,107380,42,1
+24280,Australia,Partial High School,Clerical,M,S,2,0,3,42318,43,3
+18538,United States,Bachelors ,Management,M,S,2,0,5,119578,54,5
+23841,United States,Bachelors ,Skilled Manual,F,M,1,1,1,62594,27,0
+14959,France,Partial College,Clerical,M,S,0,2,2,42157,34,0
+14097,United States,High School,Skilled Manual,M,M,2,0,0,56680,18,0
+13384,United States,Partial College,Professional,M,S,2,1,2,91228,47,1
+19559,Australia,Graduate Degree,Management,M,M,2,5,5,145348,27,0
+12650,France,High School,Management,M,M,3,1,4,139530,47,3
+18777,United States,Partial College,Skilled Manual,M,S,1,0,0,51734,23,0
+15831,Australia,Bachelors ,Management,M,M,2,0,2,77939,57,2
+28593,United States,Partial High School,Clerical,F,S,2,0,3,29599,42,3
+24914,Australia,Bachelors ,Professional,F,M,4,0,0,101162,26,0
+20961,France,Bachelors ,Manual,M,M,0,0,1,27771,36,1
+22048,United States,Bachelors ,Management,F,M,2,0,1,104790,30,1
+14338,Canada,High School,Skilled Manual,F,M,2,0,0,47840,19,0
+20830,Germany,Graduate Degree,Clerical,F,M,0,0,4,70881,36,4
+14697,United Kingdom,Partial High School,Manual,M,S,2,0,0,25594,25,0
+23952,Germany,High School,Manual,M,S,1,0,0,24166,22,0
+17877,Germany,Bachelors ,Manual,M,S,0,0,1,31608,35,1
+17837,Germany,Partial College,Clerical,F,S,1,0,0,46080,20,0
+20543,United States,Partial College,Professional,M,M,2,2,4,82332,46,2
+25894,United States,Partial College,Professional,M,M,2,1,2,96515,46,1
+22863,United States,Partial College,Professional,M,M,0,3,4,99777,41,1
+27826,Germany,Partial College,Clerical,M,S,1,4,4,52260,19,0
+25356,United States,Partial High School,Clerical,M,M,2,1,2,34609,40,1
+18610,United States,Bachelors ,Professional,F,S,2,2,4,90371,34,2
+16852,United States,Bachelors ,Management,F,S,4,2,4,128405,34,2
+25360,United States,High School,Skilled Manual,M,M,2,0,2,61309,40,2
+13487,United States,Graduate Degree,Management,F,M,2,3,3,148975,60,0
+18963,United States,Partial College,Skilled Manual,F,M,1,0,1,82391,35,1
+15698,Germany,Bachelors ,Management,F,S,3,5,5,135829,44,0
+21611,United States,Graduate Degree,Professional,M,M,0,0,2,140433,27,2
+11258,United States,Graduate Degree,Management,M,M,4,2,2,184897,64,0
+16036,United Kingdom,Bachelors ,Manual,F,M,0,0,1,20517,36,1
+23354,United States,Partial College,Professional,M,S,2,0,0,101507,23,0
+28641,United States,Graduate Degree,Skilled Manual,F,M,0,0,1,57028,26,1
+25455,Germany,Partial High School,Manual,M,M,0,4,4,14562,31,0
+20996,Australia,Bachelors ,Clerical,M,S,0,0,0,30824,18,0
+12760,Canada,Graduate Degree,Skilled Manual,F,S,0,0,0,80827,31,0
+26843,Germany,High School,Manual,M,S,2,0,4,21679,68,4
+12939,Canada,Bachelors ,Skilled Manual,M,S,1,3,3,125963,32,0
+11807,United States,Graduate Degree,Professional,M,M,0,0,3,111687,26,3
+17560,United States,Graduate Degree,Skilled Manual,F,M,0,0,1,87038,25,1
+18998,United States,Bachelors ,Management,M,M,3,0,5,87085,50,5
+11215,Canada,Partial High School,Skilled Manual,F,M,2,1,2,40247,47,1
+19116,Canada,Graduate Degree,Professional,M,S,0,0,1,119828,28,1
+15839,United States,Partial College,Skilled Manual,M,S,1,0,0,62337,23,0
+13930,United States,Partial College,Skilled Manual,F,M,1,0,1,68515,35,1
+12093,United States,Partial College,Professional,M,M,2,1,2,102582,49,1
+19731,United States,Graduate Degree,Management,M,M,2,0,4,139556,59,4
+12514,France,Partial College,Clerical,F,S,1,0,0,36660,20,0
+19038,Germany,Partial College,Professional,M,S,1,2,3,117312,43,1
+27156,United Kingdom,Partial High School,Manual,F,M,2,0,0,23449,17,0
+26756,Australia,Bachelors ,Professional,F,S,4,5,5,98331,32,0
+21181,Australia,Bachelors ,Professional,F,S,1,3,3,88800,32,0
+21803,Canada,Partial High School,Skilled Manual,F,M,3,1,2,47635,46,1
+27431,United States,Partial College,Professional,M,S,2,1,2,104148,47,1
+17685,United States,Graduate Degree,Skilled Manual,F,S,0,0,4,119133,39,4
+12118,United States,Partial College,Professional,F,M,1,1,2,76038,46,1
+17237,Australia,Bachelors ,Professional,F,S,3,0,0,89480,23,0
+11678,United States,Graduate Degree,Professional,M,M,0,0,5,122608,28,5
+13583,United Kingdom,High School,Professional,M,S,2,1,3,128720,43,2
+14907,United States,Partial College,Clerical,F,M,1,0,1,64468,41,1
+20857,France,Partial College,Manual,M,S,1,0,0,19194,28,0
+24285,United States,Partial College,Skilled Manual,M,S,2,0,0,50494,22,0
+24154,United Kingdom,Bachelors ,Clerical,M,S,0,0,1,65238,56,1
+12299,United Kingdom,Graduate Degree,Management,M,M,4,4,4,178373,52,0
+15690,United Kingdom,Bachelors ,Management,M,S,4,4,4,167054,51,0
+27720,Australia,Partial College,Skilled Manual,M,M,3,4,5,100653,37,1
+24408,United States,Bachelors ,Management,M,M,0,3,5,171379,34,2
+26764,Australia,Partial College,Skilled Manual,M,M,1,0,1,89465,36,1
+25829,Australia,High School,Management,F,M,4,5,5,115361,27,0
+22616,United Kingdom,Graduate Degree,Clerical,M,S,0,0,0,90438,28,0
+13725,United States,Partial College,Clerical,M,M,1,0,1,53572,43,1
+23990,France,Partial College,Manual,F,S,1,0,3,13511,54,3
+22830,Germany,Partial College,Management,M,M,3,5,5,156982,48,0
+26815,United States,Graduate Degree,Professional,F,M,0,0,0,81160,32,0
+12095,United States,Bachelors ,Management,M,M,0,1,2,87335,49,1
+16821,Germany,Bachelors ,Management,F,M,4,3,3,133419,39,0
+11597,France,Partial College,Clerical,F,S,2,3,3,45885,19,0
+13960,Australia,Bachelors ,Professional,F,S,4,5,5,82935,30,0
+23613,United Kingdom,Bachelors ,Management,M,M,4,4,4,176428,53,0
+15694,United Kingdom,Partial College,Professional,F,M,2,2,4,105288,44,2
+24816,Canada,Graduate Degree,Professional,F,M,0,0,2,106829,28,2
+24211,United Kingdom,Graduate Degree,Skilled Manual,F,S,0,0,0,97084,28,0
+23627,Germany,Partial College,Management,F,S,4,4,4,110762,47,0
+14500,United States,Bachelors ,Management,F,S,4,3,3,138097,60,0
+22223,United States,Partial College,Professional,F,M,1,0,2,101465,40,2
+29068,Australia,High School,Skilled Manual,F,S,2,0,4,19108,50,4
